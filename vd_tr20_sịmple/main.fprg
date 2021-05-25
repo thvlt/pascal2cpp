@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Administrator"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-05-24 06:16:42 AM"/>
+        <attribute name="created" value="QWRtaW5pc3RyYXRvcjtBRE1JTklTVFJBVE9SOzIwMjEtMDUtMjQ7MDU6MzI6MjkgQU07MzYzNg=="/>
+        <attribute name="edited" value="QWRtaW5pc3RyYXRvcjtBRE1JTklTVFJBVE9SOzIwMjEtMDUtMjQ7MDY6MTY6NDIgQU07MjszNzQz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Xin ch&#224;o! &quot;" newline="False"/>
+            <output expression="&quot;B&#7841;n c&#243; kh&#7887;e kh&#244;ng&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

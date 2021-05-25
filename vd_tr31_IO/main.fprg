@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Administrator"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-05-24 09:55:57 AM"/>
+        <attribute name="created" value="QWRtaW5pc3RyYXRvcjtBRE1JTklTVFJBVE9SOzIwMjEtMDUtMjQ7MDU6MzI6MjkgQU07MzYzNg=="/>
+        <attribute name="edited" value="QWRtaW5pc3RyYXRvcjtBRE1JTklTVFJBVE9SOzIwMjEtMDUtMjQ7MDk6NTU6NTcgQU07NTszNzU4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numOfStudents" type="Integer" array="False" size=""/>
+            <output expression="&quot;L&#7899;p b&#7841;n c&#243; bao nhi&#234;u b&#7841;n?&quot;" newline="True"/>
+            <input variable="numOfStudents"/>
+            <output expression="&quot;B&#7841;n c&#243; &quot;" newline="False"/>
+            <output expression="numOfStudents-1" newline="False"/>
+            <output expression="&quot; b&#7841;n c&#249;ng l&#7899;p&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
